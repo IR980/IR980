@@ -132,9 +132,4 @@ You can click the Preview link to take a look at your changes.
 	<a href="https://x.com/Irshadalam9801" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/x.png" alt="Instagram"/></a>
 	<a href="https://www.instagram.com/lrshad.alam98/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="X"/></a>
 	<a href="mailto:ia3055951@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-</p>
-<a href="https://x.com/Irshadalam9801" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="irshadalam" height="30" width="40" /></a>
-<a href="https://www.instagram.com/lrshad.alam98/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="irshadalam" height="30" width="40" /></a>
 
-<!--<a href="https://discord.com/users/devgoyalg" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/discord.svg" alt="devgoyalg" height="30" width="40" /></a>
-</p> -->
