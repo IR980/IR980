@@ -130,6 +130,6 @@ You can click the Preview link to take a look at your changes.
 	<a href="https://www.linkedin.com/in/irshadalam2000/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 <!-- 	<a href="https://www.facebook.com/yashitanamdeo/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a> -->
 	<a href="https://x.com/Irshadalam9801" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/x.png" alt="Instagram"/></a>
-	<a href="https://www.instagram.com/lrshad.alam98/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="X"/></a>
+	<a href="https://www.instagram.com/irshad.alam98/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="X"/></a>
 	<a href="mailto:ia3055951@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 
