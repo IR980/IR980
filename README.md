@@ -17,9 +17,9 @@ You can click the Preview link to take a look at your changes.
 ## 👨‍💻  &nbsp;About Me 
 - 🐍♨️ I'm **Python & Java** coder
 - 🌱 I’m currently learning **Data Structure and Algorithm & Data Analytics Web Development**
-- 💻 **3⭐** on **HackerRank** in **Python, Java & SQL**
-- 👨‍💻 **1⭐** on **CodeChef**
-- 📫 Feel free to contact me : **ia3055951@gmail.com**
+- 💻 **4⭐** on **HackerRank** in **Python, Java & SQL**
+- 👨‍💻 **3⭐** on **CodeChef**
+- 📫 Feel free to contact me : **ia3055951@gmail.com** 
 -
  <!-- ## 🤝🏻 &nbsp;Connect with Me
 <p align="left">
