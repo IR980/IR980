@@ -214,3 +214,292 @@ My interests include:
 ### *"Engineering software that is scalable, intelligent, and impactful."*
 
 </div>
+
+<!-- ========================================================= -->
+<!--                    PREMIUM GITHUB README                  -->
+<!--                         PART 2                           -->
+<!-- ========================================================= -->
+
+# AI / Machine Learning Expertise
+
+<div align="center">
+
+| Domain | Proficiency | Details |
+|---------|:-----------:|---------|
+| Machine Learning | ⭐⭐⭐⭐⭐ | Supervised & Unsupervised Learning, Feature Engineering, Model Evaluation |
+| Deep Learning | ⭐⭐⭐⭐☆ | CNNs, Transfer Learning, Neural Networks, TensorFlow, PyTorch |
+| Computer Vision | ⭐⭐⭐⭐⭐ | Image Classification, Object Detection, Activity Recognition, OpenCV |
+| Natural Language Processing | ⭐⭐⭐⭐☆ | Transformers, Hugging Face, LangChain, Text Processing |
+| Generative AI | ⭐⭐⭐⭐☆ | LLM Applications, Prompt Engineering, RAG Pipelines |
+| Data Science | ⭐⭐⭐⭐⭐ | Data Cleaning, EDA, Visualization, Predictive Analytics |
+| Model Deployment | ⭐⭐⭐⭐☆ | Flask, FastAPI, Streamlit, Docker, REST APIs |
+| MLOps | ⭐⭐⭐☆☆ | Model Versioning, Deployment, Monitoring |
+| Cloud AI | ⭐⭐⭐☆☆ | AWS AI Services, Model Hosting |
+| Research & Optimization | ⭐⭐⭐⭐☆ | Hyperparameter Tuning, Transfer Learning, Performance Optimization |
+
+</div>
+
+---
+
+# Featured Projects
+
+<details>
+<summary>
+
+## Human Activity Recognition for Security Surveillance
+
+</summary>
+
+### Overview
+
+Developed an intelligent surveillance system capable of detecting suspicious and criminal activities from CCTV footage using Deep Learning and Computer Vision techniques. The solution was trained using the UCF Crime Dataset and optimized for real-time inference.
+
+| Category | Details |
+|-----------|---------|
+| **Tech Stack** | Python, TensorFlow, EfficientNet-B3, OpenCV, NumPy, Pandas |
+| **Dataset** | UCF Crime Dataset |
+| **Scale** | 14 Activity Classes |
+| **Performance** | High-Accuracy Deep Learning Classification |
+| **Security** | AI-powered Automated Surveillance |
+| **Impact** | Early Detection of Criminal Activities |
+| **Repository** | `Coming Soon` |
+
+### Highlights
+
+- EfficientNet-B3 Transfer Learning
+- Real-time Activity Recognition
+- Image Processing Pipeline
+- Data Augmentation
+- GPU Accelerated Training
+- Performance Optimization
+- Security Surveillance Automation
+- Production-ready Prediction Pipeline
+
+</details>
+
+---
+
+<details>
+<summary>
+
+## Multiple Disease Prediction System
+
+</summary>
+
+### Overview
+
+Designed and developed an AI-powered healthcare platform capable of predicting multiple diseases using trained Machine Learning models with an intuitive Streamlit interface.
+
+| Category | Details |
+|-----------|---------|
+| **Tech Stack** | Python, Streamlit, Scikit-Learn, Pandas |
+| **Models** | SVM, Logistic Regression |
+| **Scale** | Multi-Disease Prediction |
+| **Performance** | Optimized ML Models |
+| **Security** | Secure Input Validation |
+| **Impact** | Early Health Risk Assessment |
+| **Repository** | `Coming Soon` |
+
+### Features
+
+- Diabetes Prediction
+- Heart Disease Prediction
+- Parkinson's Disease Prediction
+- Interactive Dashboard
+- Responsive UI
+- Fast Prediction Engine
+- Easy Medical Data Input
+- Machine Learning Model Integration
+
+</details>
+
+---
+
+<details>
+<summary>
+
+## Chandra Enterprises Invoice Management System
+
+</summary>
+
+### Overview
+
+Built a modern enterprise-grade Invoice Management Platform featuring authentication, customer management, invoice generation, GST calculations, QR-based payments, analytics dashboard, PDF generation, and payment tracking.
+
+| Category | Details |
+|-----------|---------|
+| **Tech Stack** | React, Node.js, Express, MongoDB Atlas |
+| **Scale** | Enterprise Business Application |
+| **Performance** | Optimized REST APIs |
+| **Security** | JWT Authentication & Role-Based Access |
+| **Impact** | Complete Digital Invoice Automation |
+| **Repository** | `Private` |
+
+### Features
+
+- JWT Authentication
+- Admin Dashboard
+- Invoice Generator
+- GST Calculation Engine
+- Customer Management
+- QR Code Payments
+- PDF Invoice Export
+- Revenue Analytics
+- Payment History
+- Company Settings
+- Transport Management
+- Responsive Design
+
+</details>
+
+---
+
+<details>
+<summary>
+
+## Chandra Enterprises Business Website
+
+</summary>
+
+### Overview
+
+Developed a modern corporate website for an agricultural export company with a premium UI, responsive layout, admin management, product catalog, inquiry system, gallery management, and newsletter integration.
+
+| Category | Details |
+|-----------|---------|
+| **Tech Stack** | React, Tailwind CSS, Express.js, MongoDB Atlas |
+| **Scale** | Business Website |
+| **Performance** | SEO Optimized |
+| **Security** | Authentication & Protected APIs |
+| **Impact** | Improved Digital Presence |
+| **Repository** | `Private` |
+
+### Features
+
+- Modern Landing Page
+- Product Showcase
+- Gallery Module
+- Contact System
+- Newsletter Subscription
+- Admin Panel
+- Cloudinary Integration
+- Mobile Responsive
+- Smooth Animations
+- Dashboard Analytics
+
+</details>
+
+---
+
+<details>
+<summary>
+
+## AI Plant Disease Detection
+
+</summary>
+
+### Overview
+
+Implemented an image classification model capable of detecting plant diseases from leaf images using Deep Learning and transfer learning techniques.
+
+| Category | Details |
+|-----------|---------|
+| **Tech Stack** | Python, TensorFlow, OpenCV |
+| **Scale** | Multi-Class Image Classification |
+| **Performance** | High Accuracy CNN |
+| **Security** | Input Validation |
+| **Impact** | Smart Agriculture |
+| **Repository** | `Coming Soon` |
+
+### Features
+
+- Leaf Image Processing
+- Disease Classification
+- Transfer Learning
+- CNN Architecture
+- Prediction Dashboard
+- Performance Metrics
+
+</details>
+
+---
+
+<details>
+<summary>
+
+## AI Document Question Answering (RAG)
+
+</summary>
+
+### Overview
+
+Built an intelligent Retrieval-Augmented Generation (RAG) system capable of answering questions from uploaded documents using embeddings, vector databases, and Large Language Models.
+
+| Category | Details |
+|-----------|---------|
+| **Tech Stack** | LangChain, Hugging Face, FAISS, Python |
+| **Scale** | Document Intelligence Platform |
+| **Performance** | Fast Semantic Search |
+| **Security** | Local Document Processing |
+| **Impact** | AI Knowledge Assistant |
+| **Repository** | `Coming Soon` |
+
+### Features
+
+- PDF Processing
+- Embedding Generation
+- Semantic Search
+- Vector Database
+- LLM Integration
+- Conversational Interface
+
+</details>
+
+---
+
+<details>
+<summary>
+
+## E-Commerce MERN Platform
+
+</summary>
+
+### Overview
+
+Designed and implemented a scalable MERN-based e-commerce application with authentication, product management, shopping cart, order processing, and payment workflow.
+
+| Category | Details |
+|-----------|---------|
+| **Tech Stack** | React, Node.js, Express, MongoDB |
+| **Scale** | Full Stack Product |
+| **Performance** | Optimized CRUD Operations |
+| **Security** | JWT & Secure APIs |
+| **Impact** | Complete Shopping Platform |
+| **Repository** | `Coming Soon` |
+
+### Features
+
+- Authentication
+- Product Management
+- Shopping Cart
+- Orders
+- Payment Integration
+- Admin Dashboard
+- Inventory
+- Search & Filters
+
+</details>
+
+---
+
+# Engineering Philosophy
+
+> I believe great software is built through simplicity, scalability, maintainability, and continuous learning. My focus is on developing intelligent systems that solve meaningful problems while following clean architecture, engineering best practices, and modern software development principles.
+
+---
+
+<div align="center">
+
+### **"Building scalable products powered by AI, modern software engineering, and thoughtful design."**
+
+</div>
