@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 <br><br>
 
 <img src="https://img.shields.io/badge/Location-India-6D28D9?style=flat-square"/>
-<img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20AI-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20AI/ML-7C3AED?style=flat-square"/>
 <img src="https://img.shields.io/badge/Learning-System%20Design-4F46E5?style=flat-square"/>
 <img src="https://img.shields.io/badge/Status-Available%20for%20Work-2563EB?style=flat-square"/>
 
@@ -45,11 +45,11 @@ You can click the Preview link to take a look at your changes.
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=7C3AED"/>
+<img src="https://komarev.com/ghpvc/?username=IR980&style=for-the-badge&color=7C3AED"/>
 
-<img src="https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=6D28D9&labelColor=111827"/>
+<img src="https://img.shields.io/github/followers/IR980?style=for-the-badge&color=6D28D9&labelColor=111827"/>
 
-<img src="https://img.shields.io/github/stars/yourusername?affiliations=OWNER&style=for-the-badge&color=2563EB&labelColor=111827"/>
+<img src="https://img.shields.io/github/stars/IR980?affiliations=OWNER&style=for-the-badge&color=2563EB&labelColor=111827"/>
 
 </div>
 
@@ -96,7 +96,7 @@ My interests include:
 | 🎯 Career Goal | Software Engineer at a Global Product Company |
 
 ---
-
+<!--
 ## Open To
 
 ✔ Software Engineering Roles
@@ -116,6 +116,7 @@ My interests include:
 ✔ Technical Communities
 
 ---
+-->
 
 # Tech Stack
 
@@ -503,11 +504,6 @@ Designed and implemented a scalable MERN-based e-commerce application with authe
 
 </div>
 
-<!-- ========================================================= -->
-<!--                    PREMIUM GITHUB README                  -->
-<!--                         PART 3                           -->
-<!-- ========================================================= -->
-
 # Experience
 
 ---
@@ -634,18 +630,6 @@ Worked on AI-based research projects involving Deep Learning, Computer Vision, H
 
 ---
 
-## AWS
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/AWS-Cloud%20Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-</div>
-
----
-
 ## Oracle
 
 <div align="center">
@@ -717,31 +701,12 @@ Worked on AI-based research projects involving Deep Learning, Computer Vision, H
 
 ---
 
-# Professional Strengths
-
-- Clean and Maintainable Code
-- Scalable Software Architecture
-- AI-Driven Product Development
-- REST API Design
-- Performance Optimization
-- Problem Solving
-- Agile Development
-- Team Collaboration
-- Continuous Learning
-- Engineering Best Practices
-
----
 
 <div align="center">
 
 ### **"Turning ideas into intelligent, scalable, and production-ready software."**
 
 </div>
-
-<!-- ========================================================= -->
-<!--                    PREMIUM GITHUB README                  -->
-<!--                         PART 4                           -->
-<!-- ========================================================= -->
 
 # Coding Profiles
 
@@ -766,99 +731,46 @@ Worked on AI-based research projects involving Deep Learning, Computer Vision, H
 </div>
 
 ---
+## 📊 Github Stats
+
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Yashita's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yashitanamdeo&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Yashita's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashitanamdeo&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a> -->
+
+<p align="left">
+<a href="https://github.com/IR980">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IR980&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" width = "340em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IR980&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 # GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IR980&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IR980&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-<img width="90%" src="https://streak-stats.demolab.com?user=yourusername&theme=tokyonight&hide_border=true"/>
+<img width="90%" src="https://streak-stats.demolab.com?user=IR980&theme=tokyonight&hide_border=true"/>
 
 </div>
 
----
 
-# GitHub Trophies
 
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=4"/>
-
-</div>
-
----
+## 🔥 Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=IR980&theme=tokyonight&hide_border=true"/>
+</p>
 
 # Contribution Activity
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true&area=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=IR980&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
-
----
-
-# Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
-> **Note:** Create the snake animation using the **Platane/snk GitHub Action** and replace `yourusername` with your GitHub username.
-
----
-
-# Current Focus
-
-```yaml
-Current:
-  Role:
-    - Software Engineer
-    - AI Engineer
-    - Full Stack Developer
-
-Learning:
-  - Advanced Data Structures & Algorithms
-  - System Design
-  - Distributed Systems
-  - Microservices
-  - Kubernetes
-  - AWS Cloud
-  - DevOps
-
-Building:
-  - AI Powered Applications
-  - Enterprise MERN Stack Projects
-  - Intelligent Automation Systems
-  - Full Stack SaaS Products
-
-Exploring:
-  - Generative AI
-  - Large Language Models
-  - Retrieval Augmented Generation (RAG)
-  - AI Agents
-  - MLOps
-  - Cloud Native Applications
-
-Open_To:
-  - Software Engineering Roles
-  - AI/ML Engineering Roles
-  - Backend Engineering
-  - Full Stack Development
-  - Open Source Collaboration
-  - Freelance Opportunities
-```
 
 ---
 
@@ -866,19 +778,19 @@ Open_To:
 
 <div align="center">
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:mohammadirshad9163@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/yourlinkedin">
+<a href="https://linkedin.com/in/irshadalam2000">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/yourusername">
+<a href="https://github.com/IR980">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://yourportfolio.com">
+<a href="https://irshadfolio.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
