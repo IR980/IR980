@@ -503,3 +503,254 @@ Designed and implemented a scalable MERN-based e-commerce application with authe
 ### **"Building scalable products powered by AI, modern software engineering, and thoughtful design."**
 
 </div>
+
+<!-- ========================================================= -->
+<!--                    PREMIUM GITHUB README                  -->
+<!--                         PART 3                           -->
+<!-- ========================================================= -->
+
+# Experience
+
+---
+
+## AI & Data Science Intern
+
+### Celebal Technologies
+
+**May 2025 – July 2025**
+
+Worked as an AI & Data Science Intern where I designed and developed Machine Learning and Computer Vision solutions while collaborating on real-world industry use cases. Focused on building intelligent systems using Python, Deep Learning frameworks, and modern AI development practices.
+
+### Scope of Work
+
+- Developed end-to-end Machine Learning solutions.
+- Built image classification models using Deep Learning.
+- Performed data preprocessing and feature engineering.
+- Applied Transfer Learning techniques for improved accuracy.
+- Evaluated model performance using industry-standard metrics.
+- Worked with TensorFlow, PyTorch, OpenCV, and Scikit-Learn.
+- Collaborated using Git and GitHub workflows.
+- Participated in project reviews and technical discussions.
+- Documented AI workflows and project architecture.
+
+**Skills**
+
+`Python`
+`TensorFlow`
+`PyTorch`
+`OpenCV`
+`Scikit-Learn`
+`Pandas`
+`NumPy`
+`Git`
+`GitHub`
+`Machine Learning`
+`Deep Learning`
+`Computer Vision`
+
+---
+
+## Full Stack Developer
+
+### Personal & Academic Projects
+
+**2024 – Present**
+
+Designed and developed multiple enterprise-grade web applications using the MERN Stack, emphasizing clean architecture, scalable APIs, secure authentication, and responsive user interfaces.
+
+### Scope of Work
+
+- Built full-stack web applications from scratch.
+- Designed RESTful APIs using Express.js.
+- Developed responsive interfaces with React.
+- Implemented JWT Authentication & Authorization.
+- Integrated MongoDB Atlas for cloud databases.
+- Deployed applications on Vercel and Render.
+- Integrated Cloudinary for media management.
+- Optimized frontend performance and UX.
+- Created reusable React components.
+- Implemented protected routes and admin dashboards.
+
+**Skills**
+
+`React`
+`Node.js`
+`Express.js`
+`MongoDB`
+`JWT`
+`REST API`
+`Tailwind CSS`
+`Cloudinary`
+`Render`
+`Vercel`
+`Git`
+
+---
+
+## Artificial Intelligence Research Projects
+
+### Academic Research
+
+**2024 – Present**
+
+Worked on AI-based research projects involving Deep Learning, Computer Vision, Healthcare AI, and Intelligent Surveillance Systems.
+
+### Scope of Work
+
+- Human Activity Recognition
+- Disease Prediction Models
+- Computer Vision Applications
+- Image Classification
+- Transfer Learning
+- Data Visualization
+- Model Optimization
+- Performance Evaluation
+
+**Skills**
+
+`Deep Learning`
+
+`TensorFlow`
+
+`PyTorch`
+
+`CNN`
+
+`Transfer Learning`
+
+`OpenCV`
+
+`Python`
+
+`Research`
+
+`AI`
+
+---
+
+# Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|-------------|---------|
+| Academic Projects | Successfully delivered multiple AI & Full Stack applications. |
+| AI Engineering | Built production-ready Machine Learning and Deep Learning models. |
+| Software Development | Designed scalable MERN Stack applications with modern architecture. |
+| Problem Solving | Strong foundation in Data Structures & Algorithms. |
+| Open Source | Actively exploring and contributing to open-source projects. |
+| Continuous Learning | Regularly improving expertise in AI, Cloud, and System Design. |
+| Product Development | Delivered complete end-to-end software solutions. |
+| Deployment | Successfully deployed applications on modern cloud platforms. |
+
+</div>
+
+---
+
+# Certifications
+
+---
+
+## AWS
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AWS-Cloud%20Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+</div>
+
+---
+
+## Oracle
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Oracle-Java-CC2927?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Oracle-Database-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+</div>
+
+---
+
+## Cisco
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Cisco-Python-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Cisco-Networking-0A77B7?style=for-the-badge&logo=cisco&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Cisco-Cybersecurity-005073?style=for-the-badge&logo=cisco&logoColor=white"/>
+
+</div>
+
+---
+
+## NPTEL
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/NPTEL-Programming-4B0082?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NPTEL-Data%20Science-5B21B6?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NPTEL-Artificial%20Intelligence-6D28D9?style=for-the-badge"/>
+
+</div>
+
+---
+
+## Microsoft
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Microsoft-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Microsoft-AI-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white"/>
+
+</div>
+
+---
+
+# Technical Expertise Snapshot
+
+<div align="center">
+
+| Area | Technologies |
+|------|--------------|
+| Programming | Java, Python, JavaScript, TypeScript, C++, SQL |
+| Frontend | React, Next.js, Tailwind CSS, HTML5, CSS3 |
+| Backend | Node.js, Express.js, REST APIs |
+| Databases | MongoDB, MySQL, PostgreSQL |
+| AI & ML | TensorFlow, PyTorch, OpenCV, Scikit-Learn |
+| Cloud | AWS, Vercel, Render |
+| Tools | Git, GitHub, Docker, VS Code, Postman |
+| Concepts | OOP, DSA, System Design, DBMS, Operating Systems |
+
+</div>
+
+---
+
+# Professional Strengths
+
+- Clean and Maintainable Code
+- Scalable Software Architecture
+- AI-Driven Product Development
+- REST API Design
+- Performance Optimization
+- Problem Solving
+- Agile Development
+- Team Collaboration
+- Continuous Learning
+- Engineering Best Practices
+
+---
+
+<div align="center">
+
+### **"Turning ideas into intelligent, scalable, and production-ready software."**
+
+</div>
