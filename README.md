@@ -87,7 +87,7 @@ My interests include:
 
 | Area | Details |
 |------|---------|
-| 🎯 Current Role | AI & Full Stack Developer |
+| 🎯 Current Role | AI/ML & Full Stack Developer |
 | 💼 Interests | Software Engineering • AI • Backend Systems |
 | 🌱 Learning | System Design • Cloud • DevOps • Microservices |
 | 🚀 Building | AI Applications • MERN Stack Products |
@@ -752,5 +752,183 @@ Worked on AI-based research projects involving Deep Learning, Computer Vision, H
 <div align="center">
 
 ### **"Turning ideas into intelligent, scalable, and production-ready software."**
+
+</div>
+
+<!-- ========================================================= -->
+<!--                    PREMIUM GITHUB README                  -->
+<!--                         PART 4                           -->
+<!-- ========================================================= -->
+
+# Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/your_username">
+<img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/your_username/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-View%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/your_username">
+<img src="https://img.shields.io/badge/HackerRank-View%20Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/users/your_username">
+<img src="https://img.shields.io/badge/CodeChef-View%20Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="90%" src="https://streak-stats.demolab.com?user=yourusername&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# GitHub Trophies
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=4"/>
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+> **Note:** Create the snake animation using the **Platane/snk GitHub Action** and replace `yourusername` with your GitHub username.
+
+---
+
+# Current Focus
+
+```yaml
+Current:
+  Role:
+    - Software Engineer
+    - AI Engineer
+    - Full Stack Developer
+
+Learning:
+  - Advanced Data Structures & Algorithms
+  - System Design
+  - Distributed Systems
+  - Microservices
+  - Kubernetes
+  - AWS Cloud
+  - DevOps
+
+Building:
+  - AI Powered Applications
+  - Enterprise MERN Stack Projects
+  - Intelligent Automation Systems
+  - Full Stack SaaS Products
+
+Exploring:
+  - Generative AI
+  - Large Language Models
+  - Retrieval Augmented Generation (RAG)
+  - AI Agents
+  - MLOps
+  - Cloud Native Applications
+
+Open_To:
+  - Software Engineering Roles
+  - AI/ML Engineering Roles
+  - Backend Engineering
+  - Full Stack Development
+  - Open Source Collaboration
+  - Freelance Opportunities
+```
+
+---
+
+# Connect
+
+<div align="center">
+
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/yourlinkedin">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/yourusername">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://yourportfolio.com">
+<img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# Support My Work
+
+<div align="center">
+
+If you find my work valuable, consider giving a ⭐ to my repositories and connecting with me.
+
+I enjoy collaborating on **AI**, **Machine Learning**, **Backend Systems**, **Cloud Computing**, and **Full Stack Development** projects.
+
+</div>
+
+---
+
+# Professional Quote
+
+<div align="center">
+
+> **"Great software is not just written—it is engineered with precision, scalability, and purpose."**
+
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,35:6D28D9,70:7C3AED,100:9333EA&height=140&section=footer"/>
 
 </div>
