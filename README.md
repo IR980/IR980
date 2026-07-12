@@ -1,11 +1,11 @@
-<!-- ========================================================= -->
-<!--                    PREMIUM GITHUB README                  -->
-<!--                         PART 1                           -->
-<!-- ========================================================= -->
+<!---
+IR980/IR980 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,35:6D28D9,70:7C3AED,100:9333EA&text=Irshad%20Alam&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,35:6D28D9,70:7C3AED,100:9333EA&text=Irshad%20Alam&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI/ML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&animation=fadeIn"/>
 
 <br>
 
@@ -27,19 +27,19 @@
 
 <br><br>
 
-<a href="https://yourportfolio.com">
+<a href="https://irshadfolio.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/yourlinkedin">
+<a href="https://www.linkedin.com/in/irshadalam2000/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:mohammadirshad9163@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/yourusername">
+<a href="https://github.com/IR980">
 <img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github"/>
 </a>
 
@@ -78,7 +78,6 @@ My interests include:
 - REST API Design
 - Database Engineering
 - System Design
-- DevOps Fundamentals
 - Open Source Contributions
 
 ---
@@ -88,7 +87,7 @@ My interests include:
 | Area | Details |
 |------|---------|
 | 🎯 Current Role | AI/ML & Full Stack Developer |
-| 💼 Interests | Software Engineering • AI • Backend Systems |
+| 💼 Interests | Software Engineering • AI/ML • Backend Systems |
 | 🌱 Learning | System Design • Cloud • DevOps • Microservices |
 | 🚀 Building | AI Applications • MERN Stack Products |
 | 🤝 Collaboration | Open Source & Innovative Engineering Projects |
@@ -124,7 +123,7 @@ My interests include:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,typescript,html,css&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css&theme=dark"/>
 
 </div>
 
@@ -608,23 +607,7 @@ Worked on AI-based research projects involving Deep Learning, Computer Vision, H
 
 **Skills**
 
-`Deep Learning`
-
-`TensorFlow`
-
-`PyTorch`
-
-`CNN`
-
-`Transfer Learning`
-
-`OpenCV`
-
-`Python`
-
-`Research`
-
-`AI`
+`Deep Learning` `TensorFlow` `PyTorch` `CNN` `Transfer Learning` `OpenCV` `Python` `Research` `AI`
 
 ---
 
@@ -764,19 +747,19 @@ Worked on AI-based research projects involving Deep Learning, Computer Vision, H
 
 <div align="center">
 
-<a href="https://leetcode.com/your_username">
+<a href="https://leetcode.com/u/Irshad98/">
 <img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org/user/your_username/">
+<a href="https://www.geeksforgeeks.org/profile/irshad98018">
 <img src="https://img.shields.io/badge/GeeksforGeeks-View%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
-<a href="https://www.hackerrank.com/your_username">
+<a href="https://www.hackerrank.com/profile/ia3055951">
 <img src="https://img.shields.io/badge/HackerRank-View%20Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
-<a href="https://www.codechef.com/users/your_username">
+<a href="https://www.codechef.com/users/irshad98018">
 <img src="https://img.shields.io/badge/CodeChef-View%20Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
