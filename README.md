@@ -759,11 +759,6 @@ Worked on AI-based research projects involving Deep Learning, Computer Vision, H
 
 
 
-## 🔥 Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=IR980&theme=tokyonight&hide_border=true"/>
-</p>
-
 # Contribution Activity
 
 <div align="center">
